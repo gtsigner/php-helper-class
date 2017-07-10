@@ -1,11 +1,11 @@
 {
   "name": "oeynet/helper",
-  "type": "oeynet-helper",
+  "type": "oeynet-plugin",
   "license": "Apache-2.0",
   "authors": [
     {
       "name": "zhaojunlike",
-      "email": "zhaojunlike@gmail.com"
+      "email": "448901948@qq.com"
     }
   ],
   "autoload": {
