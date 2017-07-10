@@ -1,0 +1,16 @@
+{
+  "name": "oeynet/helper",
+  "type": "oeynet-plugin",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "zhaojunlike",
+      "email": "448901948@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Oeynet\\Helper\\": "src/"
+    }
+  }
+}
