@@ -5,12 +5,26 @@
   "authors": [
     {
       "name": "zhaojunlike",
-      "email": "448901948@qq.com"
+      "email": "zhaojunlike@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
       "Oeynet\\Helper\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Oeynet\\Helper\\Tests\\": "tests/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.4"
   }
 }

@@ -10,6 +10,7 @@
  */
 
 namespace Oeynet\Helper;
+use Oeynet\Helper\Exception\Exception;
 
 
 /**
